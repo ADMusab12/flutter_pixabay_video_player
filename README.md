@@ -4,7 +4,7 @@
 A beautiful Flutter app that fetches and plays high-quality videos from Pixabay's API with smooth playback and search functionality.
 
 ## 🎥 Demo
-![App Demo](https://github.com/ADMusab12/flutter_pixabay_video_player/raw/main/presentation/flutter_pixa_video_app.gif)
+<img src="https://github.com/ADMusab12/flutter_pixabay_video_player/raw/main/presentation/flutter_pixa_video_app.gif" width="300" height="600" alt="App Demo">
 
 ## ✨ Features
 - 🔍 Search 500,000+ free Pixabay videos
